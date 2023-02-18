@@ -91,7 +91,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- 1. Get a free API Key at [https://example.com](https://example.com) -->
 1. Clone the repo
    ```sh
-   git clone https://github.com/BahauddinAziz/Linkedin-autoconnect
+   git clone https://github.com/Souvik-Halder/Linkedin-autoconnect
    ```
 2. Load the extension
 <!--    ```sh -->
